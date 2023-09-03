@@ -1,0 +1,37 @@
+*{
+    font-family: 'Inter', sans-serif;
+}
+.jumbotron{
+    color: aliceblue;
+    padding-top: 3rem;
+    background-color: #151416f5;
+}
+.row{
+    padding-top: 2rem;
+}
+#Portofolio{
+    color: aliceblue;
+    background-color: #151416f5;
+}
+#card{
+    color: #000;
+    padding-bottom: 5rem;
+}
+#about{
+    color: aliceblue;
+    padding-bottom: 2rem;
+    background-color: #151416f5;
+    font-size: x-large;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #1a2122; 
+}
+
+#Education {
+    font-size: x-large;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #1a2122;
+}
+
+section{
+    padding-top: 5rem;
+}
